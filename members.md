@@ -14,12 +14,16 @@ as possible;
 - Check your email for my invitation.  Accept the invitation and enjoy
 the membership!
 
-## When You Quit This Organization
+## How to Quit This Organization
 
 Please feel free to quit this organization at any time.  Since we might cannot notice your quitting, please delete
 the item relating to you in `members.md` (in your forked repositary) and create a pull request to this repository.
-When your item is deleted from [this file](members.md), you can safely quit.  And you are welcome to come back again
-whenever you are glad to.
+When your item is deleted from [this file](members.md), you can safely do the following:
+- Sign in github and open https://github.com/settings/organizations
+- In the colomn `Organizations` at that page, you'll find `theoretical-physics` with a button `Leave` on its right side.
+- Click the `Leave` button.  Done!
+
+Please remember that **you are welcome to come back again whenever you are glad to.**
 
 ## List of Members in Order of Github Username
 
