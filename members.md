@@ -2,24 +2,43 @@
 
 ## How to Become a Member
 
+## When You Quit This Organization
+
 ## List of Members in Order of Github Username
 
-**Format.**  In the following list, each item (beginning with a hyphen followed
-by a space) is related to a member in this organization.  These items are listed
-according to the alphabet order of the [github](https://github.com) username.
+**Format.**  In the following list, each item is related to a single member in this organization.
+All these items are listed according to the alphabet order of the [github](https://github.com) username.
+For each item, the format looks like
+- the github nusername, with the link to this github user
+  - the name of this member, either (titled) real name or nick name
+  - the institute of this member
+  - the country of this member
 
-**For example,** the item related to the owner of the organization looks like
-this:
-- @bnuzhoub
-  - Bin Zhou
+**For example,** the item related to the owner of this organization looks like this:
+- [bnuzhoub](https://github.com/bnuzhoub)
+  - Dr. Bin Zhou
   - Department of Physics, Beijing Normal University
   - China
+
+The source codes of the above item reads
+```
+- [bnuzhoub](https://github.com/bnuzhoub)
+  - Dr. Bin Zhou
+  - Department of Physics, Beijing Normal University
+  - China
+```
+ 
 
 ### 0-9
 
 ### A
 
 ### B
+
+- [bnuzhoub](https://github.com/bnuzhoub)
+  - Dr. Bin Zhou
+  - Department of Physics, Beijing Normal University
+  - China
 
 ### C
 
@@ -67,4 +86,4 @@ this:
 
 ### Z
 
-### Not listed in the above
+### Those not listed in the above
