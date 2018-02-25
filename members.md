@@ -4,6 +4,10 @@
 
 ## When You Quit This Organization
 
+Please feel free to quit this organization at any time.  Since we might cannot notice your quitting, please delete
+the item relating to you in this file and call for a pull request.  When all these are done, you can safely quit.
+And you are welcome to come back again.
+
 ## List of Members in Order of Github Username
 
 **Format.**  In the following list, each item is related to a single member in this organization.
