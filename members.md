@@ -2,11 +2,24 @@
 
 ## How to Become a Member
 
+If you are intesested in becoming a member of this organization, please follow
+the steps below.
+- You should have signed in [github](https://github.com).
+- Fork [this repository](https://github.com/theoretical-physics/membership-suggestions).
+- Add an item related to yourself into `members.md` in your forked repository
+`membership-suggestions`.  For the format of your item, see Section
+*List of Members in Order of Github Username* below.
+- Create a pull request to this repository, and I'll invite you as soon
+as possible;
+- Check your email for my invitation.  Accept the invitation and enjoy
+the membership!
+
 ## When You Quit This Organization
 
 Please feel free to quit this organization at any time.  Since we might cannot notice your quitting, please delete
-the item relating to you in this file and call for a pull request.  When all these are done, you can safely quit.
-And you are welcome to come back again.
+the item relating to you in `members.md` (in your forked repositary) and create a pull request to this repository.
+When your item is deleted from [this file](members.md), you can safely quit.  And you are welcome to come back again
+whenever you are glad to.
 
 ## List of Members in Order of Github Username
 
