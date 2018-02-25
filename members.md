@@ -36,6 +36,7 @@ with numbers preceeding letters.  For each item, the format looks like
   - the country of this member
   - optional, the email address
   - optional, the personal URL
+  - optional, other presonal information you are sure to release
 
 **For example,** the item related to the owner of this organization looks like this:
 - [bnuzhoub](https://github.com/bnuzhoub)
