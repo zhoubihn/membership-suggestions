@@ -7,18 +7,21 @@
 ## List of Members in Order of Github Username
 
 **Format.**  In the following list, each item is related to a single member in this organization.
-All these items are listed according to the alphabet order of the [github](https://github.com) username.
-For each item, the format looks like
+All these items are listed according to the dictionary order of the [github](https://github.com) username,
+with numbers preceeding letters.  For each item, the format looks like
 - the github nusername, with the link to this github user
   - the name of this member, either (titled) real name or nick name
   - the institute of this member
   - the country of this member
+  - optional, the email address
+  - optional, the personal URL
 
 **For example,** the item related to the owner of this organization looks like this:
 - [bnuzhoub](https://github.com/bnuzhoub)
   - Dr. Bin Zhou
   - Department of Physics, Beijing Normal University
   - China
+  - zhoub@bnu.edu.cn
 
 The source codes of the above item reads
 ```
@@ -26,6 +29,7 @@ The source codes of the above item reads
   - Dr. Bin Zhou
   - Department of Physics, Beijing Normal University
   - China
+  - zhoub@bnu.edu.cn
 ```
  
 
@@ -39,6 +43,7 @@ The source codes of the above item reads
   - Dr. Bin Zhou
   - Department of Physics, Beijing Normal University
   - China
+  - zhoub@bnu.edu.cn
 
 ### C
 
