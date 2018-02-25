@@ -3,7 +3,7 @@
 A visitor can become a member of this organization, or suggest any imporovement,
 or point out any errors, by a push request to this repository.
 
-## Membership
+## For Membership
 
 You can browse the file [members.md](members.md) to see the members in this
 organization.  If you are inteseted in taking part in, you may do it according
