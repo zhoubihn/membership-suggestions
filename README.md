@@ -1,7 +1,7 @@
 # README
 
 A visitor can become a member of this organization, or suggest any imporovement,
-or point out any errors, by a push request to this repository.
+or point out any errors, by a push request to [this repository](https://github.com/theoretical-physics/start-here).
 
 ## For Membership
 
