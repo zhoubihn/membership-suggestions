@@ -1,5 +1,9 @@
 # Members in This Organization
 
+**Note** that, in this file, one can only edit the item related to herself/himself.
+If a member tries to add, delete or change the items of other members, he/she will
+be kicked off.
+
 ## How to Become a Member
 
 If you are intesested in becoming a member of this organization, please follow
@@ -53,7 +57,6 @@ The source codes of the above item reads
   - China
   - zhoub@bnu.edu.cn
 ```
- 
 
 ### 0-9
 
