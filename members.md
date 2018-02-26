@@ -5,7 +5,7 @@
 If you are intesested in becoming a member of this organization, please follow
 the steps below.
 - You should have signed in [github](https://github.com).
-- Fork [this repository](https://github.com/theoretical-physics/membership-suggestions).
+- Fork [this repository](https://github.com/theoretical-physics/start-here).
 - Add an item related to yourself into `members.md` in your forked repository
 `membership-suggestions`.  For the format of your item, see Section
 *List of Members in Order of Github Username* below.
@@ -33,7 +33,7 @@ with numbers preceeding letters.  For each item, the format looks like
 - the github nusername, with the link to this github user
   - the name of this member, either (titled) real name or nick name
   - the institute of this member
-  - the country of this member
+  - the country/region of this member
   - optional, the email address
   - optional, the personal URL
   - optional, other presonal information you are sure to release
