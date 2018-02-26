@@ -1,11 +1,15 @@
 # Members in This Organization
 
+**Note** that, in this file, one can only edit the item related to herself/himself.
+If a member tries to add, delete or change the items of other members, he/she will
+be kicked off.
+
 ## How to Become a Member
 
 If you are intesested in becoming a member of this organization, please follow
 the steps below.
 - You should have signed in [github](https://github.com).
-- Fork [this repository](https://github.com/theoretical-physics/membership-suggestions).
+- Fork [this repository](https://github.com/theoretical-physics/start-here).
 - Add an item related to yourself into `members.md` in your forked repository
 `membership-suggestions`.  For the format of your item, see Section
 *List of Members in Order of Github Username* below.
@@ -14,12 +18,16 @@ as possible;
 - Check your email for my invitation.  Accept the invitation and enjoy
 the membership!
 
-## When You Quit This Organization
+## How to Quit This Organization
 
 Please feel free to quit this organization at any time.  Since we might cannot notice your quitting, please delete
 the item relating to you in `members.md` (in your forked repositary) and create a pull request to this repository.
-When your item is deleted from [this file](members.md), you can safely quit.  And you are welcome to come back again
-whenever you are glad to.
+When your item is deleted from [this file](members.md), you can safely do the following:
+- Sign in github and open https://github.com/settings/organizations
+- In the colomn `Organizations` at that page, you'll find `theoretical-physics` with a button `Leave` on its right side.
+- Click the `Leave` button.  Done!
+
+Please remember that **you are welcome to come back again whenever you are glad to.**
 
 ## List of Members in Order of Github Username
 
@@ -29,9 +37,10 @@ with numbers preceeding letters.  For each item, the format looks like
 - the github nusername, with the link to this github user
   - the name of this member, either (titled) real name or nick name
   - the institute of this member
-  - the country of this member
+  - the country/region of this member
   - optional, the email address
   - optional, the personal URL
+  - optional, other presonal information you are sure to release
 
 **For example,** the item related to the owner of this organization looks like this:
 - [bnuzhoub](https://github.com/bnuzhoub)
@@ -48,7 +57,6 @@ The source codes of the above item reads
   - China
   - zhoub@bnu.edu.cn
 ```
- 
 
 ### 0-9
 
@@ -107,5 +115,12 @@ The source codes of the above item reads
 ### Y
 
 ### Z
+
+- [zhoubihn](https://github.com/zhoubihn)
+  - Bin Zhou
+  - Department of Physics, Beijing Normal University
+  - China
+  - zhoubihn@163.com
+  - For test
 
 ### Those not listed in the above
